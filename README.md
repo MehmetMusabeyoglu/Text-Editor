@@ -33,13 +33,18 @@ Deployed link is [here](https://text-editor-2022-mm.herokuapp.com/)
 
 ## Screenshots
 
-### **
+### *Usage Demonstration*
 
-![]()
+<p align="center">
+  <img width="auto" height="auto" src="./assets/Usage.gif" alt="Usage">
+</p>
 
-### **
+### *Download Demonstration*
 
-![]()
+<p align="center">
+  <img width="auto" height="auto" src="./assets/Download.gif" alt="Download">
+</p>
+
 
 
 ## Code Snippets
