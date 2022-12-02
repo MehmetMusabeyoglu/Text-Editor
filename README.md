@@ -45,6 +45,24 @@ Deployed link is [here](https://text-editor-2022-mm.herokuapp.com/)
   <img width="auto" height="auto" src="./assets/Download.gif" alt="Download">
 </p>
 
+### *App Manifest*
+
+<p align="center">
+  <img width="auto" height="auto" src="./assets/Manifest.jpg" alt="App Manifest">
+</p>
+
+### *Service Workers*
+
+<p align="center">
+  <img width="auto" height="auto" src="./assets/ServiceWorkers.jpg" alt="Service Workers">
+</p>
+
+### *IndexedDB Storage*
+
+<p align="center">
+  <img width="auto" height="auto" src="./assets/IndexedDB.jpg" alt="IndexedDB">
+</p>
+
 
 ## Code Snippets
 
